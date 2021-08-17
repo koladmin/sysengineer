@@ -1,8 +1,8 @@
 
 
 ### Hi there 👋, My name is Kolawole Adamo
-#### I am a Computer Systems Engineer 
-Experienced IT Engineer with an acquired history of studies in the field. Certified professional in Computer Systems Networking from Algonquin College of Applied Arts and Technology
+#### I am a Junior Systems Specialist  
+Experienced IT Specialist with an acquired history of studies in the field. Certified professional in Computer Systems Networking from Algonquin College of Applied Arts and Technology
 
 Skills: Microsoft Servers / Computer Networking / Network Administration / PowerShell / GNU/Linux / Cloud Management 
 
