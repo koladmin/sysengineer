@@ -6,7 +6,7 @@ Experienced IT Specialist with an acquired history of studies in the field. Cert
 
 Skills: Microsoft Servers / Computer Networking / Network Administration / PowerShell / GNU/Linux / Cloud Management 
 
-- 🌱 I’m currently learning Microsoft Azure Fundamentals  
+- 🌱 I’m currently ... 
 - 💬 Ask me about Server Management, Wireless Network Architecture, Virtualization 
 - 📫 How to reach me: kola.adamo@outlook.com 
 
